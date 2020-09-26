@@ -1,3 +1,18 @@
 // Place all the styles related to the projects controller here.
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
+
+.light-rays {
+	width: 800px;
+
+	background-color: #848484;
+}
+
+.light-blocker {
+	width: 600px;
+
+	border-radius: 20px;
+	border: 5px solid white;
+
+	background-color: #9084B8;
+}
